@@ -1,0 +1,14 @@
+C:\Users\ronal\RiderProjects\2practica\2practica\bin\Debug\net9.0\2practica.exe
+C:\Users\ronal\RiderProjects\2practica\2practica\bin\Debug\net9.0\2practica.deps.json
+C:\Users\ronal\RiderProjects\2practica\2practica\bin\Debug\net9.0\2practica.runtimeconfig.json
+C:\Users\ronal\RiderProjects\2practica\2practica\bin\Debug\net9.0\2practica.dll
+C:\Users\ronal\RiderProjects\2practica\2practica\bin\Debug\net9.0\2practica.pdb
+C:\Users\ronal\RiderProjects\2practica\2practica\obj\Debug\net9.0\2practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\RiderProjects\2practica\2practica\obj\Debug\net9.0\2practica.AssemblyInfoInputs.cache
+C:\Users\ronal\RiderProjects\2practica\2practica\obj\Debug\net9.0\2practica.AssemblyInfo.cs
+C:\Users\ronal\RiderProjects\2practica\2practica\obj\Debug\net9.0\2practica.csproj.CoreCompileInputs.cache
+C:\Users\ronal\RiderProjects\2practica\2practica\obj\Debug\net9.0\2practica.dll
+C:\Users\ronal\RiderProjects\2practica\2practica\obj\Debug\net9.0\refint\2practica.dll
+C:\Users\ronal\RiderProjects\2practica\2practica\obj\Debug\net9.0\2practica.pdb
+C:\Users\ronal\RiderProjects\2practica\2practica\obj\Debug\net9.0\2practica.genruntimeconfig.cache
+C:\Users\ronal\RiderProjects\2practica\2practica\obj\Debug\net9.0\ref\2practica.dll
