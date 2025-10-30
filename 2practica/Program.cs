@@ -1,6 +1,6 @@
 ﻿﻿var entityList = new List<Enemy>();
 
-for (var i = 0; i < 5; i++)
+for (var i = 0; i < 3; i++)
 {
     entityList.Add(EnemyFactory.Create(name: "Wolf"));
 }
