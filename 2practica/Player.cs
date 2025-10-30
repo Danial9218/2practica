@@ -45,5 +45,7 @@
         Health = MaxHealth;
         Console.WriteLine($" {Name} повысил уровень до {Level}! Урон +20%, Здоровье +10%");
         Console.WriteLine($"{Name} теперь имеет {MaxHealth:F2} HP и урон {_baseDamage:F2}");
+        
+        Thread.Sleep(2000);
     }
 }

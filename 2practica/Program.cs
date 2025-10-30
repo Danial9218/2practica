@@ -77,6 +77,9 @@ while (true)
         Console.WriteLine($"\n враг {currentEnemy.Name} (Ур.{currentEnemy.Level}) побеждён!");
         Console.WriteLine($"{player.Name} отдыхает между врагами (+20 HP)");
         player.Heal(20);
+        Thread.Sleep(2000);
+        
+        
         round = 1;
         enemyId++;
         continue; // Переходим к следующему врагу
@@ -107,5 +110,5 @@ while (true)
     }
 
     round++;
-    Thread.Sleep(500);
+    Thread.Sleep(1500);
 }
